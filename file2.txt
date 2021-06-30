@@ -1,2 +1,3 @@
 This is file2.txt
 This line was added on the local MacBook repo.
+This line, on the other hand, was added in GitHub.

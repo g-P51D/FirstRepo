@@ -1,2 +1,3 @@
 This is file3.txt.
 New line added within GitHub, not on local repo on MacBook.
+This is just a bugfix.
